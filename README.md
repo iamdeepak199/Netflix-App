@@ -44,8 +44,10 @@ Run the following commands in your terminal:
 
 Netflix-App/
 ├── public/
+|   ├── images/
 ├── src/
 │   ├── components/
+|   ├── Api/
 │   ├── pages/
 │   ├── assets/
 │   └── App.jsx
@@ -61,13 +63,10 @@ Netflix-App/
 - [Netlify](https://www.netlify.com/)
 - [GitHub Pages](https://pages.github.com/)
 
----
 
 ## 📸 Screenshots
 
-*(Add demo screenshots here if available)*
 
----
 
 ## 🧑‍💻 Author
 
