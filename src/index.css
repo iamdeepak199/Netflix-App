@@ -1,0 +1,124 @@
+/* ? This file contains global CSS styles that apply to the entire application. It
+   allows you to define styles that should be applied globally, affecting all components
+   within the app */
+
+/* base rule */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Urbanist", sans-serif;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--heading-color);
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+}
+
+h1 {
+  font-size: 3.2rem;
+}
+
+p,
+li,
+a,
+label {
+  font-size: 1.8rem;
+  letter-spacing: 0.1rem;
+  color: var(--para-color);
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* theme */
+:root {
+  --main-color: #0062ff;
+  --supporting-color: #ebf3fe;
+
+  --font-color: #424242;
+  --bg-color: #ffffff;
+  --heading-color: #000a19;
+  --h-color: #0a043c;
+  --white-color: #ffffff;
+  --black: #070101;
+  --para-color: #5a6474;
+  --btn-hover-bg-color: #003b99;
+  --btn-box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+/* layout */
+.container {
+  max-width: 142rem;
+  margin: 0 auto;
+  padding: 9.6rem 2.4rem;
+}
+
+.grid {
+  display: grid;
+  gap: 9.6rem;
+}
+
+.grid-two-cols {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.grid-three-cols {
+  grid-template-columns: repeat(3, 1fr);
+}
+.card{
+  box-shadow: rgb(0, 0, 0.1) 0px 0.6px 24px 0px ,
+  rgba(0, 0,0, 0.1) 0px 0px 0px 0.1px;
+  width: 100%;
+}
+.card-heading{
+  margin-bottom: 3.2rem;
+}
+
+img{
+  width: 100%;
+}
+.card-content{
+  padding: 3.2rem 1.2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+}
+.btn {
+  padding: 1rem 2rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+  background-color: var(--main-color);
+  color: var(--white-color);
+  border: none;
+  border-radius: 0.6rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: var(--btn-box-shadow);
+}
+
+.btn:hover {
+  background-color: var(--btn-hover-bg-color);
+  color: var(--white-color);
+  transform: translateY(-3px);
+  font-style: italic;
+  letter-spacing: 0.5px;
+}

@@ -1,0 +1,154 @@
+[
+  {
+    "name": "Lovely Runner",
+    "id": "lovely-runner",
+    "img_url": "http://localhost:5173/images/lr.webp",
+    "rating": "9.8",
+    "description": "Im Sol travels back in time to prevent the tragic fate of her favorite star, Ryu Sun Jae.",
+    "cast": ["Kim Hye Yoon", "Byeon Woo Seok", "Song Geon Hee"],
+    "genre": ["Romantic Comedy", "Fantasy"],
+    "watch_url": "https://www.viki.com/tv/40466c-lovely-runner"
+  },
+  {
+    "name": "Stranger Things",
+    "id": "stranger-things",
+    "img_url": "http://localhost:5173/images/st.webp",
+    "rating": "8.7",
+    "description": "A group of young friends witness supernatural forces and secret government exploits.",
+    "cast": ["Winona Ryder", "David Harbour", "Millie Bobby Brown"],
+    "genre": ["Drama", "Fantasy", "Horror"],
+    "watch_url": "https://www.netflix.com/title/80057281"
+  },
+  {
+    "name": "The Witcher",
+    "id": "the-witcher",
+    "img_url": "http://localhost:5173/images/tw.webp",
+    "rating": "8.2",
+    "description": "Geralt of Rivia, a mutated monster-hunter for hire, journeys toward his destiny in a turbulent world.",
+    "cast": ["Henry Cavill", "Anya Chalotra", "Freya Allan"],
+    "genre": ["Action", "Adventure", "Drama"],
+    "watch_url": "https://www.netflix.com/title/80189685"
+  },
+  {
+    "name": "Money Heist",
+    "id": "money-heist",
+    "img_url": "http://localhost:5173/images/mh.webp",
+    "rating": "8.3",
+    "description": "A criminal mastermind who goes by 'The Professor' plans the biggest heist in recorded history.",
+    "cast": ["Úrsula Corberó", "Álvaro Morte", "Itziar Ituño"],
+    "genre": ["Action", "Crime", "Drama"],
+    "watch_url": "https://www.netflix.com/title/80192098"
+  },
+  {
+    "name": "The Crown",
+    "id": "the-crown",
+    "img_url": "http://localhost:5173/images/tc.webp",
+    "rating": "8.6",
+    "description": "Follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the 20th century.",
+    "cast": ["Claire Foy", "Olivia Colman", "Imelda Staunton"],
+    "genre": ["Biography", "Drama", "History"],
+    "watch_url": "https://www.netflix.com/title/80025678"
+  },
+  {
+    "name": "Squid Game",
+    "id": "squid-game",
+    "img_url": "http://localhost:5173/images/sg.webp",
+    "rating": "8.1",
+    "description": "Hundreds of cash-strapped contestants accept an invitation to compete in children's games for a tempting prize, but the stakes are deadly.",
+    "cast": ["Lee Jung-jae", "Park Hae-soo", "Wi Ha-joon"],
+    "genre": ["Action", "Drama", "Mystery"],
+    "watch_url": "https://www.netflix.com/title/81040344"
+  },
+  {
+    "name": "Queen of Tears",
+    "id": "queen-of-tears",
+    "img_url": "http://localhost:5173/images/qt.webp",
+    "rating": "TBD",
+    "description": "A gripping tale of love, loss, and resilience set against the backdrop of a war-torn nation.",
+    "cast": ["Kim Soo Hyun", "Kim Ji Won"],
+    "genre": ["Drama", "Romance"],
+    "watch_url": "https://www.viki.com/tv/23456789c-queen-of-tears"
+  },
+
+  {
+    "name": "Alice in Borderland",
+    "id": "alice-in-borderland",
+    "img_url": "http://localhost:5173/images/Ab.webp",
+    "rating": "8.5",
+    "description": "A gamer and his friends find themselves in a parallel Tokyo, where they must compete in dangerous games to survive.",
+    "cast": ["Kento Yamazaki", "Tao Tsuchiya", "Nijiro Murakami"],
+    "genre": ["Thriller", "Sci-Fi", "Drama"],
+    "watch_url": "https://www.netflix.com/title/81211035"
+  },
+  {
+    "name": "Crash Landing on You",
+    "id": "crash-landing-on-you",
+    "img_url": "http://localhost:5173/images/cl.webp",
+    "rating": "9.1",
+    "description": "A South Korean heiress accidentally crash-lands in North Korea and meets a North Korean officer who decides to help her hide.",
+    "cast": ["Hyun Bin", "Son Ye-jin", "Seo Ji-hye"],
+    "genre": ["Romance", "Drama", "Comedy"],
+    "watch_url": "https://www.netflix.com/title/81159258"
+  },
+  {
+    "name": "Peaky Blinders",
+    "id": "peaky-blinders",
+    "img_url": "http://localhost:5173/images/pb.webp",
+    "rating": "8.8",
+    "description": "A gangster family epic set in 1900s England, centered on a gang who sew razor blades into their caps.",
+    "cast": ["Cillian Murphy", "Paul Anderson", "Helen McCrory"],
+    "genre": ["Crime", "Drama", "History"],
+    "watch_url": "https://www.netflix.com/title/80002479"
+  },
+  {
+    "name": "All of Us Are Dead",
+    "id": "all-of-us-are-dead",
+    "img_url": "http://localhost:5173/images/aouad.webp",
+    "rating": "7.5",
+    "description": "Students trapped in a high school during a zombie virus outbreak must fight for survival.",
+    "cast": ["Park Ji-hu", "Yoon Chan-young", "Cho Yi-hyun"],
+    "genre": ["Horror", "Thriller", "Drama"],
+    "watch_url": "https://www.netflix.com/title/81237994"
+  },
+  {
+    "name": "Extraordinary Attorney Woo",
+    "id": "extraordinary-attorney-woo",
+    "img_url": "http://localhost:5173/images/eaw.webp",
+    "rating": "8.7",
+    "description": "A brilliant young attorney with autism faces challenges and discrimination in the courtroom and in life.",
+    "cast": ["Park Eun-bin", "Kang Tae-oh", "Kang Ki-young"],
+    "genre": ["Drama", "Legal", "Slice of Life"],
+    "watch_url": "https://www.netflix.com/title/81518991"
+  },
+  {
+    "name": "Dark",
+    "id": "dark",
+    "img_url": "http://localhost:5173/images/dark.webp",
+    "rating": "8.8",
+    "description": "A family saga with a supernatural twist, set in a German town where the disappearance of two young children exposes hidden secrets.",
+    "cast": ["Louis Hofmann", "Lisa Vicari", "Andreas Pietschmann"],
+    "genre": ["Sci-Fi", "Mystery", "Thriller"],
+    "watch_url": "https://www.netflix.com/title/80100172"
+  },
+  {
+    "name": "My Demon",
+    "id": "my-demon",
+    "img_url": "http://localhost:5173/images/md.webp",
+    "rating": "8.0",
+    "description": "A cold-hearted heiress and a powerless demon enter into a contract marriage full of supernatural surprises and love.",
+    "cast": ["Kim Yoo-jung", "Song Kang"],
+    "genre": ["Romance", "Fantasy", "Comedy"],
+    "watch_url": "https://www.netflix.com/title/81742528"
+  },
+  {
+    "name": "Vincenzo",
+    "id": "vincenzo",
+    "img_url": "http://localhost:5173/images/vincenzo.webp",
+    "rating": "8.5",
+    "description": "A Korean-Italian mafia lawyer returns to Korea and takes on a corrupt conglomerate using his own unique methods.",
+    "cast": ["Song Joong-ki", "Jeon Yeo-been", "Ok Taec-yeon"],
+    "genre": ["Crime", "Drama", "Comedy"],
+    "watch_url": "https://www.netflix.com/title/81365087"
+  }
+  
+]
