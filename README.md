@@ -49,7 +49,7 @@ A responsive and modern Netflix UI clone built using **React 19** and **Vite 7**
 
 ## 🌐 Deployment
 
-    > You can deploy this project on:
+  > You can deploy this project on:
     - [Vercel](https://vercel.com/)
     - [Netlify](https://www.netlify.com/)
     - [GitHub Pages](https://pages.github.com/)
